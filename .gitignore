@@ -1,0 +1,113 @@
+# Project exclude paths
+/.gradle/
+/Simple Tic-Tac-Toe/task/build/
+/Simple Tic-Tac-Toe/task/out/
+/Simple Tic-Tac-Toe/task/out/production/classes/
+/Topics/Boolean and logical operations/Invitations and gifts/out/
+/Topics/Boolean and logical operations/Invitations and gifts/out/production/classes/
+/Topics/Boolean and logical operations/Program a Boolean function/out/
+/Topics/Boolean and logical operations/Program a Boolean function/out/production/classes/
+/Topics/Characters/Digits or not/out/
+/Topics/Characters/Digits or not/out/production/classes/
+/Topics/Characters/Previous character/out/
+/Topics/Characters/Previous character/out/production/classes/
+/Topics/Coding style conventions/Violation/out/
+/Topics/Coding style conventions/Violation/out/production/classes/
+/Topics/Declaring functions/Comparing sums/out/
+/Topics/Declaring functions/Comparing sums/out/production/classes/
+/Topics/Declaring functions/Right equation/out/
+/Topics/Declaring functions/Right equation/out/production/classes/
+/Topics/Equality/True captain/out/
+/Topics/Equality/True captain/out/production/classes/
+/Topics/For loop and lists/Circular shift/out/
+/Topics/For loop and lists/Circular shift/out/production/classes/
+/Topics/For loop and lists/Count occurrences/out/
+/Topics/For loop and lists/Count occurrences/out/production/classes/
+/Topics/For loop and lists/The index of the first max/out/
+/Topics/For loop and lists/The index of the first max/out/production/classes/
+/Topics/For loop and ranges/Fizz Buzz/out/
+/Topics/For loop and ranges/Fizz Buzz/out/production/classes/
+/Topics/For loop and ranges/The roots of equation/out/
+/Topics/For loop and ranges/The roots of equation/out/production/classes/
+/Topics/For loop and ranges/The sum of integers from a to b/out/
+/Topics/For loop and ranges/The sum of integers from a to b/out/production/classes/
+/Topics/Getting substrings/Case insensitive/out/
+/Topics/Getting substrings/Case insensitive/out/production/classes/
+/Topics/If expression/Healthy sleep/out/
+/Topics/If expression/Healthy sleep/out/production/classes/
+/Topics/If expression/Positive, Negative or Zero/out/
+/Topics/If expression/Positive, Negative or Zero/out/production/classes/
+/Topics/If expression/The max of three numbers/out/
+/Topics/If expression/The max of three numbers/out/production/classes/
+/Topics/Integers in action/The last digit of a number/out/
+/Topics/Integers in action/The last digit of a number/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of characters/out/production/classes/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/
+/Topics/Introduction to MutableList/Initializing a mutable list of integers/out/production/classes/
+/Topics/Jumps and returns/First digit/out/
+/Topics/Jumps and returns/First digit/out/production/classes/
+/Topics/Multi-dimensional list/Corners/out/
+/Topics/Multi-dimensional list/Corners/out/production/classes/
+/Topics/Multi-dimensional list/Cube of zeros/out/
+/Topics/Multi-dimensional list/Cube of zeros/out/production/classes/
+/Topics/Multi-dimensional list/Kotlin lists/out/
+/Topics/Multi-dimensional list/Kotlin lists/out/production/classes/
+/Topics/Multi-dimensional list/Shapeshifter/out/
+/Topics/Multi-dimensional list/Shapeshifter/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Processing strings/Double characters/out/
+/Topics/Processing strings/Double characters/out/production/classes/
+/Topics/Processing strings/Palindrome/out/
+/Topics/Processing strings/Palindrome/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Ranges/Within both ranges/out/
+/Topics/Ranges/Within both ranges/out/production/classes/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/
+/Topics/Reading data with a readln/How to learn the whole Kotlin per one task/out/production/classes/
+/Topics/Relational operators/Check the sum/out/
+/Topics/Relational operators/Check the sum/out/production/classes/
+/Topics/Relational operators/Check the value/out/
+/Topics/Relational operators/Check the value/out/production/classes/
+/Topics/Relational operators/Check the value (1)/out/
+/Topics/Relational operators/Check the value (1)/out/production/classes/
+/Topics/Repeating blocks/Counting positive numbers/out/
+/Topics/Repeating blocks/Counting positive numbers/out/production/classes/
+/Topics/Repeating blocks/Kotlin x5/out/
+/Topics/Repeating blocks/Kotlin x5/out/production/classes/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/
+/Topics/Repeating blocks/Maximum element divisible by 4/out/production/classes/
+/Topics/Repeating blocks/Print a string exactly ten times/out/
+/Topics/Repeating blocks/Print a string exactly ten times/out/production/classes/
+/Topics/Repeating blocks/Repeat by value/out/
+/Topics/Repeating blocks/Repeat by value/out/production/classes/
+/Topics/Standard input/Printing each word in a new line/out/
+/Topics/Standard input/Printing each word in a new line/out/production/classes/
+/Topics/String basics/JSON/out/
+/Topics/String basics/JSON/out/production/classes/
+/Topics/Type conversion/Simple converter/out/
+/Topics/Type conversion/Simple converter/out/production/classes/
+/Topics/Type conversion/Sum of Longs/out/
+/Topics/Type conversion/Sum of Longs/out/production/classes/
+/Topics/When expression/From string to a number/out/
+/Topics/When expression/From string to a number/out/production/classes/
+/Topics/When expression/Harry Potter/out/
+/Topics/When expression/Harry Potter/out/production/classes/
+/Topics/When expression/Just checking/out/
+/Topics/When expression/Just checking/out/production/classes/
+/Topics/When expression/The number of digits/out/
+/Topics/When expression/The number of digits/out/production/classes/
+/Topics/While loops/The length of the sequence/out/
+/Topics/While loops/The length of the sequence/out/production/classes/
+/Topics/While loops/The sum of elements/out/
+/Topics/While loops/The sum of elements/out/production/classes/
+/Topics/Work with MutableLists/Adding lists/out/
+/Topics/Work with MutableLists/Adding lists/out/production/classes/
+/Topics/Work with MutableLists/Guard On The Gate/out/
+/Topics/Work with MutableLists/Guard On The Gate/out/production/classes/
+/Topics/Working with strings/Name Card/out/
+/Topics/Working with strings/Name Card/out/production/classes/
+/Topics/Working with strings/The information about a person/out/
+/Topics/Working with strings/The information about a person/out/production/classes/
